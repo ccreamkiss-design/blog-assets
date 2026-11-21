@@ -10,3 +10,8 @@ https://ccreamkiss-design.github.io/blog-assets/images/파일이름.png
 ```
 
 - 이 저장소에는 이미지 파일만 올립니다. 개인정보가 담긴 사진, 문서, 비밀번호 등은 올리지 않습니다.
+
+## 관리 메모
+
+- GitHub Pages 게시 브랜치는 `gh-pages`이고, 기본 브랜치 `main`과 같은 내용을 유지합니다.
+- 파일을 추가하거나 바꿀 때는 두 브랜치에 함께 반영해야 실제 주소에 나타납니다.
